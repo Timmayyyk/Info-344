@@ -1,0 +1,59 @@
+/*
+Timothy Davis #1332245
+Project Assignment #1
+index.css
+*/
+
+body {
+	font-family: Georgia, serif;
+	font-size: 12pt;
+	background-color: #DBCECE;
+	margin: 5%;
+	
+}
+
+h1, h2 {
+	margin: 5px;
+	font-size: 24pt;
+	font-weight: bold;
+}
+
+form {
+	margin-bottom: 20px;
+}
+
+img {
+	float: left;
+	width: 230px;
+	height: 185px;
+}
+
+.player {
+	width: 500px;
+	height: 185px;
+	margin: 5px;
+	padding: 0px;
+	border: 2px solid black;
+	border-radius: 10px;
+	overflow: hidden;
+	
+	background-color: #5F5F5F;
+}
+
+.info {
+	margin-left: 280px;
+	padding: 10px;
+}
+
+.name {
+	font-size: 18pt;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-decoration: underline;
+	
+	display: inline;
+}
+
+#disclaimer {
+	font-style: italic;
+}
